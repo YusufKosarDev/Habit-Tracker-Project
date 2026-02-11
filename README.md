@@ -10,7 +10,8 @@ Choose frequency (e.g., Daily)
 
 Track and manage habits easily
 
-📝 What Does It Do?
+
+**📝 What Does It Do?**
 
 The app allows users to create and manage habits with custom settings:
 
@@ -24,7 +25,8 @@ Add Habit: Stores and displays the habit in the list for tracking.
 
 The interface is clean and minimal, focusing on usability and simplicity.
 
-⚙️ How Does It Work?
+
+**⚙️ How Does It Work?**
 
 Single-page structure: Built with HTML, CSS, and JavaScript.
 
@@ -36,7 +38,8 @@ Dynamic DOM updates: New habits are rendered instantly without refreshing the pa
 
 Lightweight implementation: No external libraries — pure JavaScript and DOM manipulation.
 
-🎓 What I Learned?
+
+**🎓 What I Learned?**
 
 Handling form inputs and validation in JavaScript.
 
@@ -49,4 +52,4 @@ Creating a simple and user-friendly interface design.
 Organizing project logic for scalability in future improvements (e.g., local storage, progress tracking).
 
 
-🚀 Live Demo: https://yusufkosardev.github.io/Habit-Tracker-Project/
+**🚀 Live Demo**: https://yusufkosardev.github.io/Habit-Tracker-Project/
