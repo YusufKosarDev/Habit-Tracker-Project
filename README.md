@@ -16,7 +16,7 @@ The app allows users to create and manage habits with custom settings:
 
 Habit Name: User-defined activity (e.g., Reading, Exercise).
 
-# of Repetitions: Number of times the habit should be completed.
+"#" of Repetitions: Number of times the habit should be completed.
 
 Frequency: Determines how often the habit repeats (e.g., Daily).
 
